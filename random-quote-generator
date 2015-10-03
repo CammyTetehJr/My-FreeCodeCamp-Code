@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Quote Of The Moment</title>
+  <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+  <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css'>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <section class="container-fluid">
+    <h1>Quote Of The Moment !</h1>
+    
+    <div class="well">
+      <p class="quote-text"></p>
+      <p class="author-text"></p>
+    </div>
+    <button type="button" class="btn btn-success" id="quote">New Quote</button>
+    <a class="twitter-share-button" href="https://twitter.com/intent/tweet" data-size="large" target="_blank">
+      <button type="button" class="btn btn-success ">Tweet Me !</button>
+    </a>
+  </section>
+
+  <footer>
+    <p>Copyright © Teteh C. Chinaedu 2015. All Rights Reserved</p>
+  </footer>
+
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  <script src='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js'></script>
+  <script src="js/index.js"></script>
+
+</body>
+
+</html>
