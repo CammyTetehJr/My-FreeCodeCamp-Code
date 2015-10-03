@@ -1,0 +1,44 @@
+p, .container-fluid {
+  text-align: center;
+  padding-bottom: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: #e4f1fe;
+  font-family: 'Comic Sans MS';
+}
+
+body {
+  position: relative;
+  background-color: #0d493b;
+  background: url("http://www.resimsi.com/wp-content/uploads/2015/06/green-background3.jpg") no-repeat center center fixed;
+    background-size: cover;
+    
+}
+
+.well {
+  margin-left: 3%;
+  margin-right: 3%;
+  background-color: #0d493b;
+  background: url("http://wallpaperinteriordesign.com/wp-content/uploads/2015/08/Black-Color-Wallpapers-HD-6.jpg") no-repeat center center fixed;
+}
+
+
+footer {
+  min-height: 8vh;
+  padding-top: 20px;
+  padding-bottom: 1px;
+  background-color: black;
+}
+
+
+section {
+  min-height: 91.8vh;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.jumbotron{
+  background: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_U-Kv20zl4Xtwku_eIPqEHaYTVH8i2vG_HkcXY0S4I6_IgbyY")
+}
+
+
